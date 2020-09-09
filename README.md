@@ -1,0 +1,1 @@
+This is Luka's first git project!
